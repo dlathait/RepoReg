@@ -14,4 +14,17 @@ public class GitReg {
 	{
 		System.out.println("method3");
 	}
+		
+	public void india() {
+		// TODO Auto-generated method stub
+		System.out.println("India");
+	}
+	public void usa() {
+		// TODO Auto-generated method stub
+		System.out.println("USA");
+	}
+	public void australia() {
+		// TODO Auto-generated method stub
+		System.out.println("Australia");
+	}
 }
